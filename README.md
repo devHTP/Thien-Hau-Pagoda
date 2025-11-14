@@ -39,8 +39,21 @@ Thiên Hậu Thánh Mẫu tên thật là Lâm Mạc Nương, sinh năm 1044 t�
 - Giữ trật tự khi người dân đang cúng bái; hạn chế chụp ảnh người cầu khấn.  
 - Kết hợp ăn uống: thử hoành thánh, xá xíu, bò bía ngay khu vực chợ Lớn.
 
-## Đóng góp
+## Đóng góprepo
 Nếu bạn có hình ảnh, lễ hội, truyền thuyết bổ sung… hãy mở Pull Request hoặc Issue để cùng hoàn thiện kho tư liệu mở này!
+
+## Project Structure
+```
+thien-hau-pagoda/
+├─ README.md
+├─ index.html          //
+├─ css/
+│  └─ style.css
+├─ img/                // ảnh chùa (self-host hoặc dùng Unsplash)
+├─ js/
+│  └─ main.js
+└─ .gitignore
+```
 
 ## License
 CC-BY-SA 4.0 – chia sẻ tự do khi ghi rõ nguồn.
